@@ -1,0 +1,75 @@
+Advance  Python Syntax and Features	Understanding Python's Advanced Data Types
+- Lists, Tuples, Sets, Dictionaries (understanding methods like comprehension),  - Generators and Iterators,  - Lambda Functions
+Decorators
+- Function decorators,  - Class decorators
+Context Managers (with statement
+- Creating custom context managers,  - Using __enter__ and __exit__
+Self Study
+Object-Oriented Programming (OOP)	Advanced OOP Concepts
+- Multiple Inheritance, - Method Resolution Order (MRO), - Abstract Base Classes (ABC), - Polymorphism and Method Overriding, - Operator Overloading
+Private and Protected Attributes
+- Name Mangling, - Property Decorators
+Self Study
+Python Metaprogramming	Understanding Metaclasses - Creating and using metaclasses, - Metaclass methods
+Dynamic Class Creation - type() function and dynamic class generation
+Class and Instance Attributes - Manipulating and creating attributes dynamically
+Reflection and Introspection - inspect module
+Self Study
+Functional Programming in Python	Functional Programming Concepts
+- First-Class Functions, - Closures and Scope,   - Higher-order Functions, - map(), filter(), reduce()
+Immutable Data Structures
+- Named Tuples, - Immutable lists and sets
+Self Study
+Python Generators and Coroutines	Generators
+- Understanding yield keyword, - Creating generator expressions, - Performance benefits of generators
+Coroutines
+- async and await keywords,   - Difference between generator and coroutine, - Asynchronous programming in Python
+Self Study
+Advanced Exception Handling	Custom Exceptions - Creating and raising custom exceptions
+Context Managers for Exception Handling - Creating a context manager to handle exceptions
+Exception Hierarchy and Handling Multiple Exceptions
+Logging - Python's logging module, - Logging in multi-threaded environments
+Self Study
+Data Structures and Algorithms (Part 1)	Advanced Data Structures
+- Heaps, Priority Queues, - Linked Lists, Stacks, and Queues
+Algorithms
+- Sorting (Quick Sort, Merge Sort, Heap Sort), - Searching (Binary Search, Linear Search)
+Time Complexity Analysis (Big O Notation)
+Self Study
+Data Structures and Algorithms (Part 2)	Graph Algorithms
+- Depth First Search (DFS),   - Breadth First Search (BFS),   - Dijkstra's Algorithm
+Dynamic Programming
+- Introduction to Dynamic Programming, - Solving problems like Fibonacci Series, Knapsack Problem
+Greedy Algorithms**
+Self Study
+Python's Standard Library (Advanced Topics)	Concurrency & Parallelism
+- Threading and Multi-threading, - Thread synchronization (Lock, RLock, Semaphore), - Multiprocessing
+asyncio Module
+- Creating and managing asynchronous tasks, - Event loop and coroutines
+Efficient Array Operations using NumPy Library
+Self Study
+Design Patterns in Python	Understanding Design Patterns
+- Singleton, Factory, Observer, Strategy, and Command patterns
+Implementing Common Patterns in Python**
+- Creational, Structural, and Behavioral patterns
+Understanding SOLID Principles
+Self Study
+Testing in Python	Unit Testing with unittest and pytest
+- Writing unit tests,  - Mocking in tests
+Test-Driven Development (TDD)
+- Writing tests before code,  - Running and organizing tests with pytest
+Continuous Integration (CI)
+- CI tools (e.g., Jenkins, GitHub Actions) for running tests automatically
+Self Study
+Python for Web Development (Django/Flask)	Introduction to Web Frameworks
+- Flask vs Django Comparison
+Creating Web Applications with Flask/Django
+- Basic routing, handling HTTP requests,  - REST API with Flask/Django,  - Introduction to Authentication and Authorization
+Database Integration with ORM (Django ORM/SQLAlchemy)
+Self Study
+Data Analysis and Machine Learning	Pandas
+- Data manipulation with Pandas DataFrames,  - Aggregating and grouping data
+Matplotlib/Seaborn
+- Data visualization using Python,  - Plotting charts and graphs
+Introduction to Machine Learning (Scikit-Learn)
+- Super…

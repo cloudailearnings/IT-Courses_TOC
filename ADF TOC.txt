@@ -1,0 +1,26 @@
+1. Different connectors within ADF 
+      - Email
+      - API Integration
+      - UI application integration
+      - SFTP
+      - Citrix
+      - Jira
+      - Zendesk
+      - SNOW tickets    
+      - Twilio (API based integration)
+      - Mainframe Server
+      - Salesforce
+      - SharePoint
+2. Data Structure within Data lake(Data types and How data is stored) and Norms to be followed while designing
+3. Different design models in Azure
+4. Sample Data lake design  
+5. How to maintain SCD, CDC within Azure
+6. logging and control table usage inside Azure
+7. Preprocessing in case of failure and checkpoints
+8. Parameterization and environment mapping
+9. Real time scenarios - Pipelines - Activities( Data flow activity, Mapping activity to be discussed in detail)
+10. Real time Scheduling, Monitoring, Debugging & troubleshooting
+11. Fine tuning for optimal use of Memory(Concepts like Partitioning), Processing, Cost
+12. Code versioning
+13. Azure Key vault
+14. Encryption for PII or sensitive data
